@@ -2,8 +2,7 @@ Hi! I'm Emily. Welcome to my GitHub page.
 
 **About Me**
 
-I am a Front End Developer passionate about building engaging user experiences. As a career-changer, my coding skills partner well with my transferrable skills from a dynamic career in food & hospitality. Whether building and managing a website or catering an event for 500 people, I love the process of envisioning, planning, collaborating and executing outcomes that exceed client expectations and deliver memorable experiences for visitors and guests. I am excited to put all this energy and enthusiasm into my career as a developer at a diverse and inclusive company that supports and encourages continued learning and development.
-
+As a Frontend Developer, I bring a hospitality mindset to every project — blending creativity, collaboration, and keen attention to detail to craft intuitive, engaging, and thoughtfully designed web experiences.
 
 <!--
 **emilyebrooks/emilyebrooks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
